@@ -1,2 +1,2 @@
 # bengals-taekwondo-app
-BENGALS Taewondo
+BENGALS Taekwondo
